@@ -1,0 +1,14 @@
+{
+  "name": "gigacorolla-toolchain",
+  "version": "1.0.0",
+  "description": "Example project for N4S@JAMK Focus CI-environment.",
+  "author": "Petri Matilainen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
